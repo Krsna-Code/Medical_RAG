@@ -1,1 +1,13 @@
 python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+faiss-cpu
+streamlit
+pypdf
+python-dotenv
+sentence-transformers
+groq
